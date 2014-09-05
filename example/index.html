@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html ng-app="app">
+  <head>
+    <meta charset="utf-8">
+    <title>Example</title>
+    <link rel="stylesheet" href="example.css">
+  </head>
+
+  <body ng-controller="ExampleCtrl">
+    <div class="container">
+      <ul lite-accordion-group close-others="true" class="unstyled">
+        <li lite-accordion ng-repeat="example in examples" is-open="example.active">
+          <h3 lite-accordion-toggle class="accordion-header">
+            {{example.header}}
+          </h3>
+
+          <div lite-accordion-body class="accordion-body slide">
+            {{example.content}}
+          </div>
+        </li>
+      </ul>
+    </div>
+
+    <script src="../bower_components/jquery/dist/jquery.js"></script>
+    <script src="../bower_components/angular/angular.js"></script>
+    <script src="../bower_components/angular-animate/angular-animate.js"></script>
+    <script src="../angular-lite-accordion.js"></script>
+    <script src="example.js"></script>
+  </body>
+</html>

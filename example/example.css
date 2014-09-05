@@ -1,0 +1,35 @@
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-size: 14px;
+}
+
+li {
+  padding: 5px 0px;
+}
+
+.container {
+  width: 320px;
+}
+
+.unstyled {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.accordion-header {
+  background: #ddd;
+  font-size: 16px;
+  margin: 0;
+  padding: 5px;
+}
+
+.accordion-header:hover {
+  cursor: pointer;
+}
+
+.accordion-body {
+  border: 1px solid #ddd;
+  border-top-width: 0px;
+  padding: 5px;
+}
