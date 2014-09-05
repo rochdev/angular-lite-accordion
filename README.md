@@ -7,7 +7,7 @@ Lightweight accordion for AngularJS. It differs from other implementations in th
 From your project root, run:
 
 ```sh
-$ bower install angular-lite-accordion
+$ bower install https://github.com/rochdev/angular-lite-accordion.git
 ```
 
 ## Features
