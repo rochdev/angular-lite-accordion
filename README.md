@@ -82,7 +82,7 @@ See the [example](example) folder for a complete example.
 [angular-url]: https://angularjs.org
 [angular-bootstrap-url]: http://angular-ui.github.io/bootstrap/
 [build-image]: http://img.shields.io/travis/rochdev/angular-lite-accordion/master.svg?style=flat-square
-[build-url]: https://travis-ci.org/rochdev/backbone-ng-view
+[build-url]: https://travis-ci.org/rochdev/angular-lite-accordion
 [license-image]: http://img.shields.io/badge/license-MIT-red.svg?style=flat-square
 [license-url]: http://en.wikipedia.org/wiki/MIT_License
 [twbs-url]: http://getbootstrap.com
