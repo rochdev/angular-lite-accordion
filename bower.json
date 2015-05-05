@@ -25,11 +25,11 @@
     "karma.conf.js"
   ],
   "dependencies": {
-    "angular": "~1.2",
-    "angular-animate": "~1.2"
+    "angular": ">=1.2 <1.4",
+    "angular-animate": ">=1.2 <1.4"
   },
   "devDependencies": {
-    "angular-mocks": "~1.2",
+    "angular-mocks": ">=1.2 <1.4",
     "jquery": "~2.1"
   }
 }
