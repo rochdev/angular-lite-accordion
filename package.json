@@ -20,11 +20,11 @@
   "devDependencies": {
     "jasmine-core": "^2.3.0",
     "jshint": "^2.5.5",
-    "karma": "^0.12.23",
+    "karma": "^0.13.22",
     "karma-jasmine": "^0.3.5",
-    "karma-junit-reporter": "^0.2.2",
-    "karma-mocha-reporter": "^1.0.2",
-    "karma-phantomjs-launcher": "^0.2.0",
+    "karma-junit-reporter": "^0.4.2",
+    "karma-mocha-reporter": "^2.0.2",
+    "karma-phantomjs-launcher": "^1.0.0",
     "uglify-js": "^2.4.15"
   },
   "dependencies": {}
