@@ -1,5 +1,7 @@
 # angular-lite-accordion [![License][license-image]][license-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rochdev/angular-lite-accordion.svg)](https://greenkeeper.io/)
+
 Lightweight accordion for AngularJS. It differs from other implementations in that it can be used with any markup as it does not enforce its own. If using [Bootstrap][twbs-url], you may prefer [UI Bootstrap][angular-bootstrap-url] which contains an accordion built specifically for it.
 
 ## How to install
